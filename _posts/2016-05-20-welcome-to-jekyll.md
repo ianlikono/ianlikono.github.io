@@ -15,6 +15,13 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
+{% linkpreview "https://azureossd.github.io/2020/11/06/Troubleshoot-Dotnet-Core-on-App-Services-Linux/index.html" %}
+
+{% linkpreview "https://github.com/ysk24ok/jekyll-linkpreview" %}
+
+{% linkpreview "https://ianlikono.github.io/2016/05/20/my-example-post/" %}
+
+
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
